@@ -6,3 +6,9 @@
 </p>
 <p>
 <b>Desafio 1 - Desenvolvimento de Capacidades Locais - Amazônia Legal:</b> Ganhar escala no desenvolvimento de capacidades de gestores públicos locais para implementação de políticas ou serviços públicos regionalizados na Amazônia Legal. </p>
+Time: 
+<ul>
+  <li><a href="https://github.com/venelouis">@venelouis<a/></li>
+  <li><a href="https://github.com/afonsoartoni">Afonso Artoni</li>
+  <li><a>em breve mais...</a></li>
+</ul>@venelouis
