@@ -9,6 +9,6 @@
 Time: 
 <ul>
   <li><a href="https://github.com/venelouis">@venelouis<a/></li>
-  <li><a href="https://github.com/afonsoartoni">Afonso Artoni</li>
+  <li><a href="https://github.com/afonsoartoni">Afonso Artoni</a></li>
   <li><a>em breve mais...</a></li>
 </ul>
