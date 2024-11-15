@@ -34,3 +34,28 @@ iframe {
     margin-left: auto;
     margin-right: auto;
 }
+/* lista com imagens na horizontal */
+.horizontal-list {
+    list-style-type: none; /* Remove os marcadores da lista */
+    padding: 0;
+    margin: 0;
+    display: flex; /* Define a lista como flexbox */
+}
+
+.horizontal-list li {
+    margin-right: 20px; /* Espaçamento entre os itens */
+    text-align: center; /* Centraliza o texto e a imagem */
+}
+
+.horizontal-list img {
+    width: 200px; /* Define a largura das imagens */
+    height: auto; /* Mantém a proporção das imagens */
+}
+
+/* cor dos links */
+a {
+    color: bluelight;
+    /* link já clicado */
+    text-decoration: none;
+    /* link não clicado */
+}
