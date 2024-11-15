@@ -1,0 +1,31 @@
+1.Brainstorm
+O processo de brainstorm foi muito dinâmico, com diversas ideias surgindo para resolver o problema da inclusão de pequenos produtores da Amazônia Legal nas compras públicas. A equipe foi aberta e construtiva nas discussões, e a ideia de uma plataforma de marketplace simplificada e offline ganhou destaque. Ela resolve a dificuldade de acesso e a burocracia, utilizando pontos de conexão estratégica para sincronizar dados. A equipe analisou que a ideia é criativa, com um grande impacto econômico e ambiental, e a viabilidade parece sólida, especialmente com o apoio de parceiros locais e governamentais. A decisão foi unânime em avançar com essa solução.
+
+2. Problema
+A equipe identificou que a principal dificuldade para pequenos produtores da Amazônia Legal é o acesso às compras públicas devido à burocracia excessiva, isolamento geográfico e falta de conectividade. Isso limita a capacidade de vender para o governo, reduzir a produção e acessar mercados maiores. Esse cenário perpetua a exclusão econômica dos pequenos produtores e limita o desenvolvimento local.
+
+3. Solução
+A solução proposta é uma plataforma de marketplace simplificada, onde pequenos produtores podem cadastrar seus produtos e serviços de forma fácil e com menos burocracia. A plataforma funcionaria de forma assíncrona, permitindo que as atualizações e os cadastros sejam feitos offline, com a sincronização dos dados realizada em pontos de conexão estratégica, como centros comunitários e associações. A validação dos dados e a integração com o mercado público seriam facilitadas por essa estrutura descentralizada.
+
+4. Público Alvo
+O público alvo são pequenos produtores locais da Amazônia Legal, especialmente aqueles que vivem em áreas remotas e enfrentam dificuldades de acesso à tecnologia e infraestrutura. Além disso, órgãos públicos que compram produtos e serviços para as populações locais também são parte do público beneficiado.
+
+5. Impacto
+A solução proposta tem o potencial de impulsionar a economia local, promover práticas sustentáveis e permitir que produtores se conectem ao mercado público e até ao mercado externo. Isso gerará maior inclusão econômica, fortalecerá a cadeia produtiva local e contribuirá para o desenvolvimento sustentável da região amazônica, combatendo práticas ilegais e insustentáveis.
+
+6. Modelo de Negócio
+O modelo de negócio será baseado em uma plataforma online e offline com custos baixos de transação para produtores, financiado por parcerias com ONGs, governos locais e possíveis taxas de uso pelos órgãos públicos. A receita poderá vir de uma pequena taxa de adesão ou manutenção paga pelos produtores, além de contribuições governamentais e parcerias. O valor gerado será reinvestido para a melhoria da infraestrutura e a expansão da plataforma.
+
+7. Diferencia Competitivo
+O diferencial da plataforma é sua acessibilidade e operação assíncrona, adaptada à realidade da Amazônia Legal. Ao invés de depender de uma infraestrutura online constante, a plataforma permite que os dados sejam atualizados e sincronizados em pontos de conexão físicos e estratégicos, facilitando o acesso dos produtores locais e reduzindo a burocracia. Além disso, ela integra a produção local ao mercado público de forma eficiente e direta.
+
+8. Viabilidade
+O projeto é viável, tanto legalmente quanto tecnologicamente, pois se adapta à infraestrutura existente na região e não exige grandes investimentos iniciais em tecnologia. A plataforma pode ser construída com tecnologias simples, como aplicativos móveis e sistemas de dados offline, que são compatíveis com a realidade da Amazônia. Legalmente, o projeto pode ser apoiado por políticas públicas existentes de incentivo ao desenvolvimento regional.
+
+9. Implementação
+Estima-se que, com os recursos necessários, a implementação do projeto pode ser realizada em 6 a 12 meses. A primeira fase incluiria o desenvolvimento da plataforma, a criação de pontos de conexão e a realização de um piloto em municípios prioritários da Amazônia Legal. O projeto seria ajustado conforme o feedback dos usuários e das partes envolvidas, com o objetivo de expandir para outros locais após a avaliação do piloto.
+
+
+10. Feedback dos Mentores no Discord: 
+Andre Carvalho (andrecarvalhomentor): achou uma ideia interessante, e basicamente recomendou que a nossa equipe deve buscar entender como o usuário vai pensar, o que ele precisa fazer, se ele vai conseguir “utilizar a solução”, então o mentor nos recomendou estruturarmos melhor esse passo a passo até o final do percurso do utilizador da mesma, e sobre pensar melhor sobre a questão dos pontos físicos estratégicos e essa interoperabilidade com o digital. 
+Martins Diego (dragaocozinheiro): elogiou nosso projeto, levantou a questão de talvez treinar os usuários, além de dar ótimas sugestões sobre a usabilidade da plataforma e alguma espécie de rankeamento dos cadastrados, e tentar estabelecer logo a rentabilidade do projeto para apresentação do pitch.

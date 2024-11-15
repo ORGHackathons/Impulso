@@ -18,3 +18,19 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+/*  centralize o formulário */
+form {
+    text-align: center;
+}
+
+/* diminuir o tamanho do mapa */
+iframe {
+    width: 50%;
+    height: 300px;
+    border: 0;
+    /* centralize o mapa */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
