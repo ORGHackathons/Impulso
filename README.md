@@ -11,4 +11,4 @@ Time:
   <li><a href="https://github.com/venelouis">@venelouis<a/></li>
   <li><a href="https://github.com/Gabi-7020">Gabi Jones</a></li>
 </ul>
-Veja todas as entregas que foram realizadas: <buttom type="button">AQUI</button>
+Veja todas as entregas que foram realizadas: <a href="/entregas/"><buttom type="button">AQUI</button></a>
