@@ -2,17 +2,16 @@
 body {
     background-color: #006400;
     color: white;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 /* font family like florests and center*/
 h1 {
     font-family: 'Floresta', cursive;
     text-align: center;
+    font-size: 50px;
 }
-/* body good spacing */
-body {
-    padding: 20px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
+
 /* centralize a imagem */
 img {
     display: block;
