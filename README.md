@@ -6,7 +6,7 @@
 </p>
 <p>
 <b>Desafio 1 - Desenvolvimento de Capacidades Locais - Amazônia Legal:</b> Ganhar escala no desenvolvimento de capacidades de gestores públicos locais para implementação de políticas ou serviços públicos regionalizados na Amazônia Legal. </p>
-Time: 
+Time da Solução <b>Impulso Amazônico</b>: 
 <ul>
   <li><a href="https://github.com/venelouis">@venelouis<a/></li>
   <li><a href="https://github.com/Gabi-7020">Gabi Jones</a></li>
