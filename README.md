@@ -16,5 +16,5 @@ Website protótipo: https://orghackathons.github.io/Impulso
 <br /><br />
 Resultado: 13ª colocação!  <br /><br /> 
 <p align="center"><img src="resultado.png"><br />
-<a href="Resultado Hackathon.pdf">PDF do resultado completo do Hackathon</a>
+<a href="Resultado Hackathon.pdf">PDF do resultado completo do Hackathon aqui!</a>
 </p>
