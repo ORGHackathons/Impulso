@@ -14,7 +14,7 @@ Time:
 Veja todas as entregas que foram realizadas: <a href="/entregas/"><buttom type="button">AQUI</button></a> <br>
 Website protótipo: https://orghackathons.github.io/Impulso
 <br /><br />
-Resultado: 13ª colocação <br /> 
+Resultado: 13ª colocação!  <br /><br /> 
 <p align="center"><img src="resultado.png"><br />
 <a href="Resultado Hackathon.pdf">PDF do resultado completo do Hackathon</a>
 </p>
